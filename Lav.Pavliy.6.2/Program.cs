@@ -26,7 +26,7 @@ for (int i = 0; i < 6; i++)
     maxElements[i] = max;
 }
 
-Console.WriteLine("Максимальные элементы строк матрицы:");
+Console.WriteLine("Максимальные элементы столбец матрицы:");
 for (int i = 0; i < 6; i++)
 {
     Console.Write(maxElements[i] + " ");
